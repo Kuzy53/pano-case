@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.js": "/pano-case/static/js/main.9fec69dd.js",
+    "static/media/terassa.jpg": "/pano-case/static/media/terassa.78ba5312a15375e2ab68.jpg",
+    "static/media/gaming.jpg": "/pano-case/static/media/gaming.8e996c6122eb649c7379.jpg",
+    "static/media/coworking.jpg": "/pano-case/static/media/coworking.57386db5914936ef65fa.jpg",
+    "static/media/kitchen.jpg": "/pano-case/static/media/kitchen.0c5c6f59a16d27a08d4c.jpg",
+    "static/media/hall.jpg": "/pano-case/static/media/hall.58e3330136c39cd89a94.jpg",
+    "static/media/meeting.jpg": "/pano-case/static/media/meeting.d23e226ed4367185a979.jpg",
+    "static/media/regata.jpg": "/pano-case/static/media/regata.b22098f9a9ed7ce58437.jpg",
+    "static/media/port.png": "/pano-case/static/media/port.39b0d46df6db4591d9eb.png",
+    "static/media/background-mobile-banner.svg": "/pano-case/static/media/background-mobile-banner.7dfae734493574e82f2a325010654156.svg",
+    "static/media/background-banner-main.svg": "/pano-case/static/media/background-banner-main.6d5ce8fce09bb2d9ab9407960337c413.svg",
+    "static/media/logo.svg": "/pano-case/static/media/logo.d1c4e0f437c623cd3d8656feb0b6066e.svg",
+    "static/media/background-banner.svg": "/pano-case/static/media/background-banner.0c5f0cd726fdb8c1ad3854c4ea328e60.svg",
+    "static/media/panel-background.svg": "/pano-case/static/media/panel-background.164737ba0f00edf16cc5fdf561ca7b45.svg",
+    "static/media/background-mobile-main.svg": "/pano-case/static/media/background-mobile-main.7943ad3f8908a059dc65fa0d2de831a6.svg",
+    "static/media/algae-1.svg": "/pano-case/static/media/algae-1.e06f4dce964fdb1eee0070d4232a770e.svg",
+    "static/media/algae-2.svg": "/pano-case/static/media/algae-2.829b5cdc57035d74d98f04a240de6cb8.svg",
+    "static/media/close-icon.svg": "/pano-case/static/media/close-icon.f79002ecff285a551fc8c663ca237e20.svg",
+    "static/media/arrow-right.svg": "/pano-case/static/media/arrow-right.0b745d94cfff4a19da4c56cce48aa8b6.svg",
+    "index.html": "/pano-case/index.html",
+    "main.9fec69dd.js.map": "/pano-case/static/js/main.9fec69dd.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.9fec69dd.js"
+  ]
+}
